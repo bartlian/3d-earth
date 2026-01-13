@@ -4,8 +4,6 @@
 }
 
 .wrapper {
-  width: 800px;
-  height: 400px;
-  margin: 100px auto;
-  border: 1px solid #ccc;
+  width: 100vw;
+  height: 100vh;
 }
